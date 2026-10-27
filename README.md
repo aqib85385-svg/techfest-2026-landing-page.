@@ -8,7 +8,7 @@
 
 ## 🔗 Official Submission Links
 
-* **GitHub Repository Link**: [https://github.com/mohdaqib1119/techfest-2026-landing-page](https://www.google.com/search?q=https://github.com/mohdaqib1119/techfest-2026-landing-page)
+* **GitHub Repository Link**: [[https://github.com/mohdaqib1119/techfest-2026-landing-page](https://www.google.com/search?q=https://github.com/mohdaqib1119/techfest-2026-landing-page)](https://github.com/aqib85385-svg/techfest-2026-landing-page.)
 
 * **Live Demo Deployment (GitHub Pages)**: [https://mohdaqib1119.github.io/techfest-2026-landing-page/](https://www.google.com/search?q=https://mohdaqib1119.github.io/techfest-2026-landing-page/)
 
