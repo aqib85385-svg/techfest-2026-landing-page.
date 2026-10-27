@@ -6,17 +6,6 @@
 >
 > Official Website: [techfest.org](https://techfest.org)
 
-## 🔗 Official Submission Links
-
-* **GitHub Repository Link**: (https://github.com/aqib85385-svg/techfest-2026-landing-page.)
-
-* **Live Demo Deployment (GitHub Pages)**: [https://mohdaqib1119.github.io/techfest-2026-landing-page/](https://www.google.com/search?q=https://mohdaqib1119.github.io/techfest-2026-landing-page/)
-
-* **Demo Recording Google Drive Link (Viewer Access Enabled)**: [https://drive.google.com/drive/folders/0APhNqw5lghuGUk9PVA?usp=sharing](https://www.google.com/search?q=https://drive.google.com/drive/folders/0APhNqw5lghuGUk9PVA%3Fusp%3Dsharing)
-
-* **Submission Guide & Architecture (Google Doc)**: [Techfest 2026 - Landing Page Submission Guide & Architecture](https://docs.google.com/document/d/1l87KXuJ-dgCi0MkT1gqlxTDdWeMtq0B8a4lrucEV6HY/edit?usp=drivesdk)
-
-* **Direct Source Archive (Google Drive)**: [techfest_landing_page_code.zip](https://drive.google.com/file/d/1sTvn57rdf0kI1w32h2xcbc5nVTI-JMeW/view?usp=drivesdk)
 
 ## 🏛️ Theme & Architectural Ideation
 
